@@ -23,6 +23,11 @@ module.exports = {
     "vue/html-indent": "off",
     "vue/html-closing-bracket-newline": "off",
     "space-before-function-paren": "off",
-    "vue/no-unused-components": "off"
+    "vue/no-unused-components": "off",
+    "vue/require-default-prop": "off",
+    "arrow-parens": "off",
+    "no-unused-vars": "off",
+    "prefer-const": "off",
+    "object-shorthand": "off"
   }
 };

@@ -12,7 +12,8 @@ export default {
 <style>
 body {
   font-size: 14px;
-  font-family: "microsoft yahei";
+  /* font-family: "microsoft yahei"; */
+  font-family: "Arial, PingFang, sans-serif";
 }
 body,
 div,

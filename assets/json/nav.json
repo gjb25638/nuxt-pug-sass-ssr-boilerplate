@@ -1,0 +1,24 @@
+[
+  {
+    "name": "home",
+    "link": "/",
+    "nav": []
+  },
+  {
+    "name": "about",
+    "link": "/about",
+    "nav": []
+  },
+  {
+    "name": "service",
+    "link": "/service",
+    "width": "180px",
+    "nav": []
+  },
+  {
+    "name": "contact",
+    "link": "/contact",
+    "width": "180px",
+    "nav": []
+  }
+]
