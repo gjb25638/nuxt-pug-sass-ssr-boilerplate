@@ -26,7 +26,7 @@ export default {
     locales: Array
   },
   mounted: function() {
-    this.dropMenuWidthCal();
+    // this.dropMenuWidthCal();
   },
   methods: {
     mouseoverDrop() {
