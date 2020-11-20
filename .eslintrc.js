@@ -25,9 +25,10 @@ module.exports = {
     "space-before-function-paren": "off",
     "vue/no-unused-components": "off",
     "vue/require-default-prop": "off",
+    "vue/require-prop-types": "off",
     "arrow-parens": "off",
     "no-unused-vars": "off",
     "prefer-const": "off",
-    "object-shorthand": "off"
+    "object-shorthand": "off",
   }
 };

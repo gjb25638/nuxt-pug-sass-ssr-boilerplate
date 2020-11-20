@@ -35,7 +35,11 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    ["nuxt-i18n", i18nOptions]
+    ["nuxt-i18n", i18nOptions],
+    ['nuxt-google-maps-module', {
+      /* module options */
+      key: 'AIzaSyDcL3_eYd_y8q7zcmeyTVA_aT9D2iwvkQ8', // Default
+    }]
   ],
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)

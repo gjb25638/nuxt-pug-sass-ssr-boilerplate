@@ -6,7 +6,58 @@
     "service": " Service",
     "contact": "Contact"
   },
-  "login": {
-    "login": "login"
+  "face_section": {
+    "noahs_ark": "Noah's Ark",
+    "international_healing_center": "International Healing Center"
+  },
+  "footer_section": {
+    "noahs_ark": "Noah's Ark",
+    "international_healing_center": "International Healing Center",
+    "address": "No. 51, Zhuzihu Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "TEL: +886 958-881-000",
+    "copyright": "© Noah's Ark International Healing Center. All Rights Reserved."
+  },
+  "concept_section": {
+    "yangmingshan_zhuzihu": "Yangmingshan Zhuzihu",
+    "noahs_ark": "Noah's Ark",
+    "text1": "Every day in Zhuzihu, happy every day",
+    "text2": "Every day of Noah's Ark, every day of miracles",
+    "text3": "The happiest. The most healing. The healthiest day",
+    "text4": "The smartest. The healthiest. The richest day",
+    "text5": "The most spiritual. The most leisure. The most rested day"
+  },
+  "banner_section": {
+    "calla_lily_title": "Calla Lily farmland",
+    "calla_lily_text1": "WOW Calla Lily farmland",
+    "calla_lily_text2": "Super beautiful",
+    "calla_lily_text3": "Come to pick Calla Lily",
+    "banboo_overlook_title": "Bamboo Forest Trail",
+    "banboo_overlook_text1": "Bamboo Forest Lucky Trail",
+    "banboo_overlook_text2": "Good luck after walking",
+    "banboo_overlook_text3": "Come and see",
+    "full_of_energy_title": "The highest energy magnetic field in the world",
+    "full_of_energy_text1": "Ground energy is super strong",
+    "full_of_energy_text2": "Healed",
+    "full_of_energy_text3": "Feel the whole person full of energy"
+  },
+  "service_section": {
+    "service": "service",
+    "meteorite_healing": "meteorite healing",
+    "spiritual_course": "spiritual course",
+    "energy_repair": "energy repair"
+  },
+  "contact_section": {
+    "yangmingshan_zhuzihu_noahs_ark": "Yangmingshan Zhuzihu Noah's Ark",
+    "noahs_ark": "Noah's Ark",
+    "international_healing_center": "International Healing Center",
+    "address": "No. 51, Zhuzihu Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "TEL: +886 958-881-000",
+    "contact_info": "Contact Information:",
+    "service_hours": "Service hours: 09:30 ～ 18:00",
+    "traffic_info": "Traffic Information:",
+    "traffic_text1": "Take the Taipei MRT to Beitou Station",
+    "traffic_text2": "Transfer to bus 129, small 9",
+    "traffic_text3": "Get off at Zhuzihu Station",
+    "traffic_text4": "Walk about 5 minutes to arrive"
   }
 }

@@ -6,7 +6,58 @@
     "service": "提供服务",
     "contact": "联络我们"
   },
-  "login": {
-    "login": "登入"
+  "face_section": {
+    "noahs_ark": "诺亚方舟",
+    "international_healing_center": "国际疗癒中心"
+  },
+  "footer_section": {
+    "noahs_ark": "诺亚方舟",
+    "international_healing_center": "国际疗癒中心", 
+    "address": "台湾台北市北投区竹子湖路51号",
+    "tel": "TEL: +886 958-881-000",
+    "copyright": "© Noah's Ark International Healing Center. All Rights Reserved."
+  },
+  "concept_section": {
+    "yangmingshan_zhuzihu": "阳明山竹子湖",
+    "noahs_ark": "诺亚方舟",
+    "text1": "在竹子湖的每一天，快乐的每一天",
+    "text2": "诺亚方舟的每一天，奇蹟的每一天",
+    "text3": "最幸福.最疗癒.最健康的一天",
+    "text4": "最智慧.最健康.最财富的一天",
+    "text5": "最灵气.最休閒.最休息的一天"
+  },
+  "banner_section": {
+    "calla_lily_title": "海芋田",
+    "calla_lily_text1": "海芋田耶",
+    "calla_lily_text2": "超美的",
+    "calla_lily_text3": "来采海芋吧",
+    "banboo_overlook_title": "竹林步道",
+    "banboo_overlook_text1": "竹林开运步道",
+    "banboo_overlook_text2": "走完可开运",
+    "banboo_overlook_text3": "来走走看吧",
+    "full_of_energy_title": "全世界最高的能量磁场",
+    "full_of_energy_text1": "地炁超强",
+    "full_of_energy_text2": "被疗癒了",
+    "full_of_energy_text3": "感觉整个人充满能量"
+  },
+  "service_section": {
+    "service": "提供服务",
+    "meteorite_healing": "陨石疗癒",
+    "spiritual_course": "灵修课程",
+    "energy_repair": "能量修复"
+  },
+  "contact_section": {
+    "yangmingshan_zhuzihu_noahs_ark": "阳明山竹子湖 诺亚方舟",
+    "noahs_ark": "诺亚方舟",
+    "international_healing_center": "国际疗癒中心", 
+    "address": "台湾台北市北投区竹子湖路51号",
+    "tel": "TEL: +886 958-881-000",
+    "contact_info": "联络资讯：",
+    "service_hours": "营业时间：09:30 ～ 18:00",
+    "traffic_info": "交通资讯：",
+    "traffic_text1": "搭台北捷运到北投站",
+    "traffic_text2": "转公车129、小9",
+    "traffic_text3": "搭到竹子湖站下车",
+    "traffic_text4": "步行约5分钟抵达"
   }
 }

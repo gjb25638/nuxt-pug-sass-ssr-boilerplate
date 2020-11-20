@@ -1,0 +1,59 @@
+@mixin font-setting-title
+  letter-spacing: 4px
+  font-weight: 350
+  font-size: 1.6rem
+  line-height: 300%
+  margin-top: 3vh
+
+@mixin font-setting-text
+  letter-spacing: 4px
+  font-weight: 350
+  font-size: 1rem
+  line-height: 200%
+
+.contact-section-wrap
+  width: 100vw
+  height: 100vh
+  display: flex
+.gmap-wrap
+  width: 100%
+  height: 100%
+  display: grid
+  place-items: center
+  &__gmap
+    width: 45vw
+    height: 80vh
+    margin-left: 5vw
+.info-wrap
+  width: 100%
+  height: 100%
+  display: grid
+  place-items: center
+  &__info
+    width: 40vw
+    height: 100%
+    display: flex
+    flex-direction: column
+    justify-content: center
+    &__header
+      display: flex
+      align-items: center
+      &__logo
+        width: 5vw
+        height: 10vh
+        display: grid
+        background-size: cover
+        background-position: 30% 100%
+        background-repeat: no-repeat
+        box-sizing: border-box
+        border-radius: 5px
+      &__name
+        letter-spacing: 4px
+        font-weight: 350
+        font-size: 2rem
+        line-height: 300%
+        margin-left: 2vw
+    &__contact-title, &__traffic-title
+      +font-setting-title
+    &__address, &__tel, &__service-hours, , &__traffic-text1, &__traffic-text2, &__traffic-text3, &__traffic-text4
+      +font-setting-text
